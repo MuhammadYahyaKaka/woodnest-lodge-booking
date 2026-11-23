@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"WoodNest Lodge Booking — Express API server","main":"server.js","name":"woodnest-server","private":true,"scripts":{"dev":"node --watch server.js","start":"node server.js"},"version":"1.0.0"}
